@@ -22,7 +22,7 @@ In your console shell, type commands :
 
     cd ~
     wget https://github.com/rhum1-sakharov/eth-miner/releases/download/1.0.1/eth-miner.tar 
-    tar xzvf eth-miner.tar
+    tar xvf eth-miner.tar
     ./install-all.sh
 
 Follow the instructions
