@@ -1,7 +1,7 @@
 # eth-miner
 Ethereum Claymore Miner on Ubuntu Server
 
-** Requirement **
+**Requirement**
 
 All commands must be typed in a bash nutshell.
 
