@@ -1,7 +1,7 @@
 # eth-miner
 Ethereum Claymore Miner on Ubuntu Server
 
-**Requirement**
+### Requirement
 
 All commands must be typed in a bash nutshell.
 
@@ -40,6 +40,6 @@ If you need to setup your claymore config :
 
     sudo nano /usr/local/current_miner/config.txt
 
-If you need to  Restart your miner :
+If you need to restart your miner :
 
     sudo systemctl restart miner => restart your miner
