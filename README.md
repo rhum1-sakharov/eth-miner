@@ -1,5 +1,5 @@
 # eth-miner
-Ethereum Claymore Miner on Ubuntu Server
+**Ethereum Claymore Miner on Ubuntu Server**
 
 ### Requirement
 
