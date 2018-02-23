@@ -42,4 +42,4 @@ If you need to setup your claymore config :
 
 If you need to restart your miner :
 
-    sudo systemctl restart miner => restart your miner
+    sudo systemctl restart miner
