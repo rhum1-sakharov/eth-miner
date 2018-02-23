@@ -26,7 +26,7 @@ In your console shell, type commands :
     tar xvf eth-miner.tar
     ./install-all.sh
 
-Follow the instructions
+Follow the instructions ...
 
 ## Usage
 
