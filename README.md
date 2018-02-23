@@ -6,6 +6,8 @@
 
 All commands must be typed in a bash nutshell.
 
+**Works only for AMD cards.**
+
 Disclaimer : use at your own risks. 
 
 ## Install Ubuntu Server
