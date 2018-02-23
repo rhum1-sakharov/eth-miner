@@ -18,11 +18,11 @@ Tip, you can use rufus or rawrite32 to make your usb key bootable.
 
 ## Install Claymore Ethereum Miner
 
-copy all the repo files in your home directory
-
-In your console shell : 
+In your console shell, type commands : 
 
     cd ~
+    wget https://github.com/rhum1-sakharov/eth-miner/releases/download/1.0.1/eth-miner.tar 
+    tar xzvf eth-miner.tar
     ./install-all.sh
 
 Follow the instructions
@@ -42,6 +42,10 @@ If you need to view claymore's log :
 If you need to setup your claymore config : 
 
     sudo nano /usr/local/current_miner/config.txt
+
+If you need to set your pools and wallet :
+
+    sudo nano /usr/local/current_miner/epools.txt
 
 If you need to restart your miner :
 
