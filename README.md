@@ -6,6 +6,8 @@
 
 All commands must be typed in a bash nutshell.
 
+Disclaimer : use at your own risks. 
+
 ## Install Ubuntu Server
 
 Download LTS (Long Term Support) ubuntu server version : https://www.ubuntu.com/download/server
