@@ -44,3 +44,10 @@ If you need to setup your claymore config :
 If you need to restart your miner :
 
     sudo systemctl restart miner
+    
+## Donation
+
+Please make a donation for the developer :
+
+    ETH : D484A9BAD41AA5026D9EB66dE28E257B4dCeFCD2
+    
