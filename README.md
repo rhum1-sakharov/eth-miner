@@ -15,7 +15,17 @@ In your console shell type :
 
 ## Usage
 
-When Ubuntu server is started, your miner is active
+When Ubuntu server is started, your miner is already active :)
+
+### Display Claymore console
 
 log => open your claymore console
+
+
+### Claymore config
+
+If you need to setup your claymore config, go to /usr/local/current_miner and edit config.txt
+
+
+** Restart your miner **
 sudo systemctl restart miner => restart your miner
